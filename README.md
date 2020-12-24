@@ -1,4 +1,8 @@
-# AccelDecel 
+[![pipeline status](https://gitlab.com/kyb/accdecel/badges/master/pipeline.svg)](https://gitlab.com/kyb/accdecel/pipelines?scope=branches)
+[![releases](https://img.shields.io/badge/accdecel-releases-green.svg?style=flat)](https://gitlab.com/kyb/accdecel/-/releases)
+[![Gitpod.ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/kyb/accdecel)
+
+# accdecel 
 ࿗ is a well-tested calculator of linearly accelerated and decelerated motion.  
 ࿘ это ладно проверенный калькулятор равноускоренного движения.
 
