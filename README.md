@@ -3,6 +3,9 @@
 [![Gitpod.ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/kyb/accdecel)
 
 # accdecel 
+[![GitLab|origin](https://img.shields.io/badge/GitLab-origin-darkorange?logo=gitlab)](https://gitlab.com/kyb/accdecel) 
+[![GitHub|mirror](https://img.shields.io/badge/GitHub-mirror-blue?logo=github)](https://github.com/kuvaldini/accdecel)
+
 ࿗ is a well-tested calculator of linearly accelerated and decelerated motion.  
 ࿘ это ладно проверенный калькулятор равноускоренного движения.
 
